@@ -1,0 +1,5 @@
+<layout id="WatchFace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <label id="HourLabel" x="center" y="115" font="@Fonts.CustomNumberFont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="MinuteLabel" x="center" y="205" font="@Fonts.CustomNumberFont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xc7c7c7" />
+    <label id="HeartRateLabel" x="center" y="324" font="@Fonts.CustomNumberFontSmall" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+</layout>
